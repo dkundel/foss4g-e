@@ -2,6 +2,8 @@
   "name": "prototyping-a-touch-client-for-planetary-data-analysis-planetserver-touch",
   "version": "0.0.0",
   "dependencies": {
-    "reveal.js": "~2.6.1"
+    "reveal.js": "~2.6.1",
+    "octicons": "~2.0.2",
+    "font-awesome": "~4.1.0"
   }
 }
