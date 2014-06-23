@@ -1,0 +1,10 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Prototyping a touch client for Planetary Data analysis: PlanetServer Touch",
+    "packageVersion": "0.0.0",
+    "useSass": true,
+    "deployToGithubPages": true,
+    "githubUsername": "dkundel",
+    "githubRepository": "foss4g-e"
+  }
+}
