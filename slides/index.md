@@ -6,3 +6,4 @@ Dominik Kundel - Web Developer
 
 [@dkundel](http://twitter.com/dkundel) / [kundel.co](http://kundel.co)
 
+<!-- <span class="mega-octicon octicon-mark-github"></span> -->

@@ -1,1 +1,6 @@
-["index.md"]
+[
+    "index.md",
+    {
+        "filename": "more-information.md"
+    }
+]
