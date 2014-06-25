@@ -17,15 +17,15 @@
  * GLOBAL STYLES
  *********************************************/
 body {
-  background: white;
-  background-color: white; }
+  background: #295073;
+  background-color: #295073; }
 
 .reveal {
   font-family: "Lato", sans-serif;
   font-size: 29px;
   font-weight: normal;
   letter-spacing: -0.02em;
-  color: black; }
+  color: white; }
 
 ::selection {
   color: white;
@@ -42,7 +42,7 @@ body {
 .reveal h5,
 .reveal h6 {
   margin: 0 0 20px 0;
-  color: black;
+  color: white;
   font-family: "News Cycle", Impact, sans-serif;
   line-height: 0.9em;
   letter-spacing: 0.02em;
@@ -56,7 +56,7 @@ body {
  * LINKS
  *********************************************/
 .reveal a:not(.image) {
-  color: darkblue;
+  color: white;
   text-decoration: none;
   -webkit-transition: color .15s ease;
   -moz-transition: color .15s ease;
@@ -65,13 +65,13 @@ body {
   transition: color .15s ease; }
 
 .reveal a:not(.image):hover {
-  color: #0000f1;
+  color: #dff2ed;
   text-shadow: none;
   border: none; }
 
 .reveal .roll span:after {
   color: #fff;
-  background: #00003f; }
+  background: #d9d9d9; }
 
 /*********************************************
  * IMAGES
@@ -79,7 +79,7 @@ body {
 .reveal section img {
   margin: 15px 0px;
   background: rgba(255, 255, 255, 0.12);
-  border: 4px solid black;
+  border: 4px solid white;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.15);
   -webkit-transition: all .2s linear;
   -moz-transition: all .2s linear;
@@ -89,7 +89,7 @@ body {
 
 .reveal a:hover img {
   background: rgba(255, 255, 255, 0.2);
-  border-color: darkblue;
+  border-color: white;
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.55); }
 
 /*********************************************
@@ -97,31 +97,31 @@ body {
  *********************************************/
 .reveal .controls div.navigate-left,
 .reveal .controls div.navigate-left.enabled {
-  border-right-color: darkblue; }
+  border-right-color: white; }
 
 .reveal .controls div.navigate-right,
 .reveal .controls div.navigate-right.enabled {
-  border-left-color: darkblue; }
+  border-left-color: white; }
 
 .reveal .controls div.navigate-up,
 .reveal .controls div.navigate-up.enabled {
-  border-bottom-color: darkblue; }
+  border-bottom-color: white; }
 
 .reveal .controls div.navigate-down,
 .reveal .controls div.navigate-down.enabled {
-  border-top-color: darkblue; }
+  border-top-color: white; }
 
 .reveal .controls div.navigate-left.enabled:hover {
-  border-right-color: #0000f1; }
+  border-right-color: #dff2ed; }
 
 .reveal .controls div.navigate-right.enabled:hover {
-  border-left-color: #0000f1; }
+  border-left-color: #dff2ed; }
 
 .reveal .controls div.navigate-up.enabled:hover {
-  border-bottom-color: #0000f1; }
+  border-bottom-color: #dff2ed; }
 
 .reveal .controls div.navigate-down.enabled:hover {
-  border-top-color: #0000f1; }
+  border-top-color: #dff2ed; }
 
 /*********************************************
  * PROGRESS BAR
@@ -130,7 +130,7 @@ body {
   background: rgba(0, 0, 0, 0.2); }
 
 .reveal .progress span {
-  background: darkblue;
+  background: white;
   -webkit-transition: width 800ms cubic-bezier(0.26, 0.86, 0.44, 0.985);
   -moz-transition: width 800ms cubic-bezier(0.26, 0.86, 0.44, 0.985);
   -ms-transition: width 800ms cubic-bezier(0.26, 0.86, 0.44, 0.985);
@@ -141,7 +141,7 @@ body {
  * SLIDE NUMBER
  *********************************************/
 .reveal .slide-number {
-  color: darkblue; }
+  color: white; }
 
 .reveal i.fa {
   font-family: 'FontAwesome';
@@ -150,3 +150,6 @@ body {
 .reveal span.octicon, .reveal span.mega-octicon {
   font-family: 'octicons';
   font-style: normal; }
+
+.reveal a {
+  font-family: 'News Cycle', sans-serif; }

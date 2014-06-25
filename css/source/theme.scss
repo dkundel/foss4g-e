@@ -7,6 +7,13 @@
 // This file has been copied over from
 // ../../bower_components/reveal.js/css/theme/source/default.scss
 
+// Color Scheme from Adobe Kuler
+$colorOne: #295073;
+$colorTwo: #405F73;
+$colorThree: #6D848C;
+$colorFour: #A8BFBD;
+$colorFive: #DFF2ED;
+
 // Default mixins and settings -----------------
 @import "../../bower_components/reveal.js/css/theme/template/mixins";
 @import "../../bower_components/reveal.js/css/theme/template/settings";
@@ -51,15 +58,15 @@
 
 // Override theme settings (see ../template/settings.scss)
 $mainFont: 'Lato', sans-serif;
-$mainColor: #000;
+$mainColor: #fff;
 $mainFontSize: 29px;
 $headingFont: 'News Cycle', Impact, sans-serif;
-$headingColor: #000;
+$headingColor: #fff;
 $headingTextShadow: none;
 $headingTextTransform: none;
-$backgroundColor: #fff;
-$linkColor: #00008B;
-$linkColorHover: lighten( $linkColor, 20% );
+$backgroundColor: $colorOne;
+$linkColor: #fff;
+$linkColorHover: $colorFive;//lighten( $linkColor, 20% );
 $selectionBackgroundColor: rgba(0, 0, 0, 0.99);
 
 // Background generator ------------------------
@@ -83,6 +90,10 @@ $selectionBackgroundColor: rgba(0, 0, 0, 0.99);
 .reveal span.octicon, .reveal span.mega-octicon {
   font-family: 'octicons';
   font-style: normal;
+}
+
+.reveal a {
+  font-family: 'News Cycle', sans-serif;
 }
 
 // $fa-font-path: "bower_components/font-awesome/fonts";
