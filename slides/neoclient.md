@@ -1,0 +1,1 @@
+<img src="images/neo-client.png" class="fragment visible grow"/>
