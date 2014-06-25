@@ -1,12 +1,12 @@
 # Thank You!
 
-&nbsp;
+![](images/me.jpg)
 
-<span class="octicon octicon-mark-github"></span> [dkundel.github.io/foss4g-e](https://dkundel.github.io/foss4g-e)
+<span class="octicon octicon-globe"></span> [foss4g-e.kundel.co](http://foss4g-e.kundel.co)
 
 <span class="octicon octicon-code"></span> [github.com/planetserver/webclient-touch](https://github.com/planetserver/webclient-touch)
 
-<i class="fa fa-envelope"></i><!-- <span class="octicon octicon-mail"></span> --> [dominik.kundel@gmail.com](mailto:dominik.kundel@gmail.com)
+<span class="octicon octicon-mail-read"></span><!-- <span class="octicon octicon-mail"></span> --> [dominik.kundel@gmail.com](mailto:dominik.kundel@gmail.com)
 
 <i class="fa fa-twitter"></i> [@dkundel](http://twitter.com/dkundel)
 
