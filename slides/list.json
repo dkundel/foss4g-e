@@ -1,9 +1,15 @@
 [
-    "index.md",
-    {
-        "filename": "more-information.md",
-        "attr": {
-          "data-background": "#405F73"
-        }
+  "index.md",
+  {
+    "filename": "neoclient.md",
+    "attr": {
+      "data-background": "#6D848C"
     }
+  },
+  {
+    "filename": "more-information.md",
+    "attr": {
+      "data-background": "#405F73"
+    }
+  }
 ]
