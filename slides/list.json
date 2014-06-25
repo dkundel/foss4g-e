@@ -1,6 +1,9 @@
 [
     "index.md",
     {
-        "filename": "more-information.md"
+        "filename": "more-information.md",
+        "attr": {
+          "data-background": "#405F73"
+        }
     }
 ]
