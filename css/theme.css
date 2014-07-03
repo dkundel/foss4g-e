@@ -153,3 +153,11 @@ body {
 
 .reveal a {
   font-family: 'News Cycle', sans-serif; }
+
+.reveal h3 {
+  margin-top: 1em;
+  margin-bottom: 0.5em;
+  text-align: left; }
+
+.reveal ul {
+  display: block; }

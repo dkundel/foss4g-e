@@ -1,15 +1,62 @@
 [
   "index.md",
-  {
-    "filename": "neoclient.md",
-    "attr": {
-      "data-background": "#6D848C"
+  [
+    {
+      "filename": "current-state.md",
+      "attr": {
+        "data-background": "#6D848C"
+      }
+    },
+    {
+      "filename": "neoclient.md",
+      "attr": {
+        "data-background": "#6D848C"
+      }
+    },
+    {
+      "filename": "requirements.md",
+      "attr": {
+        "data-background": "#6D848C"
+      }
+    },
+    {
+      "filename": "architecture.md",
+      "attr": {
+        "data-background": "#6D848C"
+      }
     }
-  },
+  ],
+  [
+    {
+      "filename": "possible-solutions.md",
+      "attr": {
+        "data-background": "#405F73"
+      }
+    },
+    {
+      "filename": "available-solutions.md",
+      "attr": {
+        "data-background": "#405F73"
+      }
+    },
+    {
+      "filename": "available-libraries.md",
+      "attr": {
+        "data-background": "#405F73"
+      }
+    }
+  ],
+  [
+    {
+      "filename": "implementation.md"
+    },
+    "features.md",
+    "demo.md"
+  ],
   {
     "filename": "more-information.md",
     "attr": {
-      "data-background": "#405F73"
+      "data-background": "#6D848C"
     }
   }
 ]
