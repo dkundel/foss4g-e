@@ -1,6 +1,8 @@
 
 # PlanetServer Touch
-### Prototyping a touch client for Planetary Data analysis
+**Prototyping a touch client for Planetary Data analysis**
+
+&nbsp;
 
 Dominik Kundel - Web Developer
 
