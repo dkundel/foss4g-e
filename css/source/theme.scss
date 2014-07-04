@@ -108,5 +108,19 @@ $selectionBackgroundColor: rgba(0, 0, 0, 0.99);
   display: block;
 }
 
+.reveal a.jub-logo {
+  &:hover, &:visited, &:focus {
+    background: none;
+    box-shadow: none;
+    border: none;
+  }
+  img {
+    max-width: 14em;
+    background: transparent;
+    box-shadow: none;
+    border: none;
+  }
+}
+
 // $fa-font-path: "bower_components/font-awesome/fonts";
 // @import "../../bower_components/font-awesome/scss/font-awesome";

@@ -1,1 +1,1 @@
-<a href="http://local.planetserver.eu"><h1>DEMO</h1></a>
+<a href="http://local.planetserver.eu" target="_blank"><h1>DEMO</h1></a>
