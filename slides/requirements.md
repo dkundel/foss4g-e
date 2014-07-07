@@ -1,10 +1,10 @@
-## Requirements
+## Objectives
 
 &nbsp;
 
-- Large amount of reusable code
+- Comfortable control for touch input
+- Subset of existing PlanetServer functionality
 - Cover a large share of devices
   - different operating systems
   - different screen sizes
-- Subset of existing PlanetServer functionality
-- Comfortable control for touch input
+- Reuse large amounts of existing code base
