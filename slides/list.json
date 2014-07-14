@@ -58,5 +58,57 @@
     "attr": {
       "data-background": "#6D848C"
     }
-  }
+  },
+  [
+    {
+      "attr": {
+        "data-background": "/images/demo/1.png"
+      }
+    },
+    {
+      "attr": {
+        "data-background": "/images/demo/2.png"
+      }
+    },
+    {
+      "attr": {
+        "data-background": "/images/demo/3.png"
+      }
+    },
+    {
+      "attr": {
+        "data-background": "/images/demo/4.png"
+      }
+    },
+    {
+      "attr": {
+        "data-background": "/images/demo/5.png"
+      }
+    },
+    {
+      "attr": {
+        "data-background": "/images/demo/6.png"
+      }
+    },
+    {
+      "attr": {
+        "data-background": "/images/demo/7.png"
+      }
+    },
+    {
+      "attr": {
+        "data-background": "/images/demo/8.png"
+      }
+    },
+    {
+      "attr": {
+        "data-background": "/images/demo/9.png"
+      }
+    },
+    {
+      "attr": {
+        "data-background": "/images/demo/10.png"
+      }
+    }
+  ]
 ]
