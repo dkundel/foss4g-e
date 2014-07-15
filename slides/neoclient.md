@@ -1,4 +1,4 @@
-<img src="images/neo-client.png" class="fragment visible grow"/>
+<a href="http://neo.planetserver.eu" target="_blank"><img src="images/neo-client.png" class="fragment visible grow"/></a>
 
 note:
   PlanetServer is:
