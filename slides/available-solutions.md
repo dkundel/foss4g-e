@@ -17,3 +17,20 @@
   <li><strong>Pros:</strong> Access To Native Functionality, Native Feeling, Cross-Platform</li>
   <li><strong>Cons:</strong> Download And Installation Required</li>
 </ul>
+
+
+note:
+  Native:
+
+  - Pros: Performance, Native Feeling
+  - Cons: New Libraries Necessary, Many OS
+
+Web:
+
+  - Pros: Other cliens are web based, no installation, cross-platform
+  - Cons: Performance, (Internet Connection Necessary)
+
+Hybrid: 
+
+  - Pros: Access To Native Functionality, Native Feeling, Cross Platform
+  - Cons: Download and Installation Required
