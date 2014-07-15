@@ -16,3 +16,15 @@
 <h3 class="fragment fade-in">
   <i class="fa fa-long-arrow-right"></i> UI build with Bootstrap + jQuery Mobile
 </h3>
+
+note:
+Solution
+  
+  - Data through Ajax
+  - Openlayers with touch enabled
+  - jqPlot and X3DOM are mobile compatible
+  - Ext.JS needs to be replaced
+    - Sencha Touch uses MVC
+    - Bootstrap with responsive design
+    - jQuery Mobile for touch support
+    - jQuery Touch Punch
